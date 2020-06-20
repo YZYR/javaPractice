@@ -1,2 +1,2 @@
 # javaPractice
-code for java,
+code for java
